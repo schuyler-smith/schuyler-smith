@@ -1,4 +1,6 @@
-### Hi there 👋
+## Welcome to my GitHub!
+
+I am currently a Ph.D. candidate in bioinformatics & computational biology at Iowa State University in Ames, IA. You can learn more about me and my work on [my website](schuyler-smith.github.io).
 
 <!--
 **schuyler-smith/schuyler-smith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
