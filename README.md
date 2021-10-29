@@ -5,7 +5,7 @@ I am currently a Ph.D. candidate in bioinformatics & computational biology at Io
 You can learn more about me and my work on [my website](http://schuyler-smith.github.io)!
 
 
-## Background.
+## Background
 
 * 🎓 Education:
   * Ph.D. Bioinformatics and Computational Biology
@@ -13,11 +13,11 @@ You can learn more about me and my work on [my website](http://schuyler-smith.gi
   * B.S. Genetics
 * 📃 [CV](https://schuyler-smith.github.io/cv)
 
-## Research Interests.
+## Research Interests
 
 * 💻 Bioinformatics
-* 📊 Data Visualization
 * 🧬 Genomics
+* 📊 Data Visualization
 * 🔨 Tools for Reprodicible Research
 
 
