@@ -4,32 +4,21 @@ I recently earned my Ph.D. in Bioinformatics and Computational Biology from Iowa
 
 You can learn more about me and my work on [my website](http://schuyler-smith.github.io)!
 
-
 ## Background
 
-<tr>
-<td>
+🎓 Education:
+  * Ph.D. Bioinformatics and Computational Biology, Iowa State University
+  * M.S. Quantitative Genetics, Texas A&M University
+  * B.S. Genetics, Iowa State University
  
-* 🎓 Education:
-  * Ph.D. Bioinformatics and Computational Biology
-  * M.S. Quantitative Genetics
-  * B.S. Genetics
- 
-</td>
-<td>
- 
-* 📃 [CV](https://schuyler-smith.github.io/cv)
- 
-</td>
-</tr>
-
+📃 [CV](https://schuyler-smith.github.io/cv)
 
 ## Research Interests
 
-* 💻 Bioinformatics
-* 🧬 Genomics
-* 📊 Data Visualization
-* 🔨 Tools for Reprodicible Research
+💻 Bioinformatics <br>
+🧬 Genomics <br>
+📊 Data Visualization <br>
+🔨 Tools for Reprodicible Research <br>
 
 ## Schuyler, Your Code Isn't Working! :rage:
 
