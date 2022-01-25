@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-I recently earned my Ph.D. in Bioinformatics and Computational Biology from Iowa State University.
+I am a Computation Scientiest with Nutrien Ag Solutions.
 
 🌐 You can learn more about me and my work on [my website](http://schuyler-smith.github.io)! 🌐
 
