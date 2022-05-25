@@ -1,6 +1,6 @@
 ## Welcome to my GitHub!
 
-I am a Computational Scientiest with Nutrien Ag Solutions.
+I am a Senior Computational Scientiest with Nutrien.
 
 🌐 You can learn more about me and my work on [my website](http://schuyler-smith.github.io)! 🌐
 
