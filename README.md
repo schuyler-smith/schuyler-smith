@@ -1,15 +1,21 @@
 ## Welcome to my GitHub!
 
-I am a Senior Computational Scientiest with Nutrien.
+I am a Computational Scientist with Nutrien.
 
 🌐 You can learn more about me and my work on [my website](http://schuyler-smith.github.io)! 🌐
 
 ## Background
 
 🎓 Education:
-  * Ph.D. Bioinformatics and Computational Biology, Iowa State University
-  * M.S. Quantitative Genetics, Texas A&M University
-  * B.S. Genetics, Iowa State University
+  * Ph.D. Bioinformatics and Computational Biology
+  * M.S. Quantitative Genetics
+  * B.S. Genetics
+
+🏭 Work Experience:
+  * Nutrien Ag Solutions
+  * USDA-ARS
+  * Monsanto Company
+  * DuPont Pioneer
  
 📃 [CV](https://schuyler-smith.github.io/cv)
 
