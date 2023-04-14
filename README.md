@@ -1,7 +1,5 @@
 ## Welcome to my GitHub!
 
-I am a Computational Scientist with Nutrien.
-
 🌐 You can learn more about me and my work on [my website](http://schuyler-smith.github.io)! 🌐
 
 ## Background
